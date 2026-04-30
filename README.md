@@ -24,8 +24,7 @@ L’interface repose sur une approche simple et claire :
 ---
 #Vidéo Démonstratif :
 
-
-https://github.com/user-attachments/assets/f4e8f3e8-090a-406e-9c44-8233fc552e90
+https://github.com/user-attachments/assets/28dd1c0c-3482-4680-b991-dd12ae6b2c37
 
 
 ## Démarrage
