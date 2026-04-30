@@ -1,46 +1,46 @@
 export default function Home() {
   return (
     <section className="home-page">
-      <span className="badge"> Technologies du projet</span>
+      <span className="badge">🚀 Mes compétences</span>
 
-      <h1 className="page-title">Gestion Restaurant</h1>
+      <h1 className="page-title">Technologies utilisées</h1>
 
       <p className="subtitle">
-        Les technologies utilisées pour créer mon application web de gestion de restaurant.
+        Voici les principales technologies que j’utilise pour développer des applications web et mobiles.
       </p>
 
       <div className="tech-grid">
-        <div className="tech-card tech-blue">
 
+        <div className="tech-card tech-blue">
           <h3>Frontend</h3>
           <ul>
             <li>HTML</li>
             <li>CSS</li>
-            <li>Bootstrap</li>
-            <li>Animate.css</li>
+            <li>JavaScript</li>
+            <li>React</li>
           </ul>
         </div>
 
         <div className="tech-card tech-green">
-
           <h3>Backend</h3>
           <ul>
             <li>PHP</li>
+            <li>Node.js</li>
             <li>MySQL</li>
-            <li>Connexion base de données</li>
+            <li>API REST</li>
           </ul>
         </div>
 
         <div className="tech-card tech-orange">
-
-          <h3>Outils</h3>
+          <h3>Outils & Mobile</h3>
           <ul>
-            <li>Git</li>
-            <li>GitHub</li>
+            <li>Git & GitHub</li>
             <li>VS Code</li>
+            <li>Android Studio</li>
             <li>jQuery</li>
           </ul>
         </div>
+
       </div>
     </section>
   );
